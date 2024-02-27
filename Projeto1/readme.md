@@ -1,4 +1,4 @@
- ![image](https://github.com/Cablade/Projetos-Dio/assets/108036084/32167ee6-d832-4981-9226-cf86aca5c875) # Trabalhando com Machine Learning
+# Trabalhando com Machine Learning
 Para trabalhar no machine learn é essencial que você possua um workspace e esta é a tarefa inicial, criar o seu workspace para assim poder criar o seu trabalho automatizado.
 
 Depois que nosso worlspace estiver pronto temos que entrar no ML studio para criar um "novo trabalho de ML automatizado", seguindo o passo a passo da documentação do Learning para melhor entendimento e para que tudo dê certo:
