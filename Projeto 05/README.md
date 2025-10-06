@@ -1,6 +1,8 @@
 
 # Projeto BOOTCAMP DIO com foco em cirar um EBOOK Gerado por I.A.s
-
+<p align="center">
+    <img width="500" src="https://github.com/Cablade/Projetos-Dio/blob/main/Projeto%2005/freepik__a-futuristic-ebook-cover-about-programming-css-sty__39788.png">
+</p>
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
