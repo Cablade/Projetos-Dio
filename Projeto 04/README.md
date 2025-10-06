@@ -1,5 +1,7 @@
 Projeto de BOOTCAMP DIO com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
+<p align="center">
+    <img width="500" src="https://github.com/Cablade/Projetos-Dio/blob/main/Projeto%2004/pixlr-image-generator-68e4354cb53cc3ebf498bcb9.png">
+</p>
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
